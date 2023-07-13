@@ -54,7 +54,7 @@
 
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `math`, `datetime`, `scipy`
 
-##  Часть III: SQL
+##  Часть III: [SQL](https://github.com/ShapkinaNS/Data_Analyst_Yandex.Practicum/blob/main/Final_project/SQL_final_project.ipynb)
 **Цель исследования:**
 
 Проанализировать базу данных, включающую информацию о книгах, издательствах, авторах и пользовательские обзоры книг
