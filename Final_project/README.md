@@ -39,7 +39,7 @@
 
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `phik`, `plotly`
 
-##  Часть II: A/B-тестирование
+##  Часть II: [A/B-тестирование](https://github.com/ShapkinaNS/Data_Analyst_Yandex.Practicum/blob/main/Final_project/AB_test_final_project.ipynb)
 **Цель исследования:**
 
 Оценка результатов A/B-теста после введения улучшенной программы рекомендаций для региона EU
