@@ -1,3 +1,4 @@
+
 SELECT COUNT(id)
 FROM stackoverflow.posts
 WHERE post_type_id=1 
