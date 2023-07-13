@@ -18,3 +18,5 @@
 | 13 | Строка 2  | Строка 3|
 | 14 | [Выпускной проект.](https://github.com/ShapkinaNS/Data_Analyst_Yandex.Practicum/tree/main/Final_project) [Банки — сегментация пользователей по потреблению продуктов.](https://github.com/ShapkinaNS/Data_Analyst_Yandex.Practicum/blob/main/Final_project/Bank_clients_churn_final_project.ipynb) [A/B-тестирование.](https://github.com/ShapkinaNS/Data_Analyst_Yandex.Practicum/blob/main/Final_project/AB_test_final_project.ipynb) [SQL](https://github.com/ShapkinaNS/Data_Analyst_Yandex.Practicum/blob/main/Final_project/SQL_final_project.ipynb) |Анализируем и сегментируем клиентов банка в разрезе оттока (результат и рекомендации по работе с сегментами в виде Презентации), проверяем результаты А/B тестирования и подтверждаем гипотезы, разрабатываем дашборд в Tableau Public, изучаем мобильное приложение посредством SQL-запросов.| `Python` `Pandas` `SQL` `PostgreSQL` `Matplotlib` `Seaborn` `классификация` `кластеризация` `Tableau` `построение дашбордов` `A/B-тестирование` `проверка статистических гипотез`|
 
+# Программа обучения
+![Diploma](https://github.com/ShapkinaNS/Data_Analyst_Yandex.Practicum/blob/main/Diploma.png)
