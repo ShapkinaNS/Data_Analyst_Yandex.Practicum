@@ -4,7 +4,7 @@
 
 Проект включает следующие части:
 
-## Часть I: Банки — сегментация пользователей по потреблению продуктов
+## Часть I: [Банки — сегментация пользователей по потреблению продуктов](https://github.com/ShapkinaNS/Data_Analyst_Yandex.Practicum/blob/main/Final_project/Bank_clients_churn_final_project.ipynb)
 
 **Цель исследования:**
 
