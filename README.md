@@ -1,5 +1,6 @@
 # Data_Analyst_Yandex.Practicum
 В репозитории представлены проекты курса <a href="https://praktikum.yandex.ru/data-analyst/" rel="nofollow">Аналитик данных  (Яндекс.Практикум)
+[Аналитик данных  (Яндекс.Практикум)](https://praktikum.yandex.ru/data-analyst/)
 
 | № | Название и ссылка | О чём проект | Навыки и инструменты |
 |:---|:------------|:------------|:------------|
