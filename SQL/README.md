@@ -1,4 +1,5 @@
 # База данных
+![ER-diagram](https://github.com/ShapkinaNS/Data_Analyst_Yandex.Practicum/blob/main/ER_diagram_sql.png)
 - acquisition (cодержит информацию о покупках одних компаний другими);
 - company (cодержит информацию о компаниях-стартапах);
 - education (хранит информацию об уровне образования сотрудников компаний);.
